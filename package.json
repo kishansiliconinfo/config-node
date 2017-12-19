@@ -1,9 +1,0 @@
-{
-    "name": "config-node",
-    "node-red": {
-        "nodes": {
-            "config-node": "config-node.js"
-        }
-    },
-    "dependencies": {}
-}
